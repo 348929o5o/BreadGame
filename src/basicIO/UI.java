@@ -5,9 +5,7 @@ import javax.swing.*;
 import javax.swing.event.*;
 
 /**  Board GUI for implementation with various games
- *   Author: Kirill Levin, Troy Vasiga, Chris Ingram
- *   Modified by Mr. Benum to handle Key presses on Jan. 3, 2011
- *   Modified by Daniel Amin
+ *   Modified by 348929o5o
  */
  
 // =============================MUST IMPLEMENT KEYLISTENER ====================
