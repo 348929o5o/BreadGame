@@ -1,7 +1,7 @@
 package basicIO;
 /**
  * An object that holds 4 different states and has a list of 4 different bond values for a 2D grid
- * @author Daniel Amin
+ * @author 348929o5o
  * @version 1.0
  * @since 1/21/2024
  */
