@@ -2,7 +2,7 @@ package basicIO;
 import java.util.*;
 /**
  * Creates and modifies a 2D array of Type objects using two player controlled hands
- * @author Daniel Amin
+ * @author 348929o5o
  * @version 1.0
  * @since 1/21/2024
  */
